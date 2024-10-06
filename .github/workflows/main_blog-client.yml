@@ -53,4 +53,4 @@ jobs:
           app-name: 'blog-client'
           slot-name: 'Production'
           package: .
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_74889BC65C734E1CA2C8A43A27DECDA9 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1A43ED18C7354D248D40146F3BF5FE77 }}
